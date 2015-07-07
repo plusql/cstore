@@ -1,5 +1,5 @@
 C-STORE: a column-oriented DBMS
 
-This project is a for of an academic project which was a collaboration between MIT, Brandeis University, Brown University, and UMass Boston.
+This project is a fork of an academic project which was a collaboration between MIT, Brandeis University, Brown University, and UMass Boston. We use it as a model for column-store oriented database architecture.
 
 Please refer to the README file in the doc directory for detail.
